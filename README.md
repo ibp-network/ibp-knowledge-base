@@ -1,1 +1,1 @@
-# ibp-knowledge-base
+# IBP Knowledge Base
